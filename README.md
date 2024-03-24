@@ -15,7 +15,10 @@ Overview, instructions, and additional information can be found at https://pauxy
 # Basic Instructions
 The Parsemat program interface consists of selection panels (Selection), partitioning (Partitioning), graphics (Graphics) and information about the file (Control), and a panel of tables, where the file data is displayed. The first step is to choose the MIDI file and then select types of analysis and types of graphics to be produced.
 # Interface Elements
-![image](https://github.com/Pauxygnunes/Parsemat/assets/30673056/35f8eea2-5112-45ca-9625-0e7f1004a8cc)
+
+![Parsemat Details](https://github.com/Pauxygnunes/Parsemat/assets/30673056/8dc70ecd-4b5b-4b0a-8c8f-b07b0b8a6f2e)
+
+
 # Selection
 The first step in using the application is selecting a MIDI file.
 We recommend that the MIDI file generator program have human performance mechanisms turned off to analyze the musical structure.
