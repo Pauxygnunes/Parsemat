@@ -1,7 +1,7 @@
 # Parsemat
 ![Parsemat-0 9](https://github.com/Pauxygnunes/Parsemat/assets/30673056/43aafb02-f47c-4efe-959a-6df1899e0100)
 
-Parsemat v. 0.9 Beta is a tool for compositional or analytical tasks of Particular Analysis. 
+Parsemat v. 0.9 Beta is a tool for compositional or analytical tasks of Partitional Analysis. 
 Analysis. It is a program aimed at composers, researchers in music, mainly texture and form, and those interested in understanding Particular Analysis and its derived theories. Its applications include:
 
 - Formal and textural analysis;
