@@ -2,7 +2,7 @@
 ![Parsemat-0 9](https://github.com/Pauxygnunes/Parsemat/assets/30673056/43aafb02-f47c-4efe-959a-6df1899e0100)
 
 Parsemat v. 0.9 Beta is a tool for compositional or analytical tasks of Partitional Analysis. 
-Analysis. It is a program aimed at composers, researchers in music, mainly texture and form, and those interested in understanding Particular Analysis and its derived theories. Its applications include:
+Analysis. It is a program aimed at composers, researchers in music, mainly texture and form, and those interested in understanding Partitional Analysis and its derived theories. Its applications include:
 
 - Formal and textural analysis;
 - Identification of copyright traits common to the repertoires of one or more composers;
@@ -83,7 +83,7 @@ Parsemat also presents some saving and exporting options in the File> Export men
 - **Export as Tab** – Exports the partition table in Matlab (.m) format. As there are three possible partitions, the program exports the file as tabrit, tablin, and tabchan (corresponding, respectively, to rhythmic, linear, and channel partitioning).
 - **Export nm as MIDI** – Exports the note matrix table as a MIDI file. This function is useful when the user made edits directly to the table.
 # References
-For information on the basic concepts of Particular Analysis, we recommend the following bibliography:
+For information on the basic concepts of Partitional Analysis, we recommend the following bibliography:
 [Partitional Analysis Publications]([url](https://pauxy.net/partitional-analysis-publications/)https://pauxy.net/partitional-analysis-publications/)
 # Download and Installation
 Parsemat v. 0.9 for Windows
