@@ -102,7 +102,7 @@ To install Parsemat v. 0.9 Beta on Mac OS system, download, decompress and run t
 9. The title has been removed from the interface and inserted in the title bar.
 10. Small adjustments of size, proportion, and color in the window layout.
 # About
-PARSEMAT – Parseme Toolbox Software Package v. 0.9 Beta. Copyright © 2004-2022 by Pauxy Gentil Nunes Filho.
+PARSEMAT – Parseme Toolbox Software Package v. 0.9 Beta. Copyright © 2004-2024 by Pauxy Gentil Nunes Filho.
 Developed by Pauxy Gentil Nunes Filho, pauxy.contact@gmail.com
 The functions ‘onset’, ‘dur’, and ‘channel’ are part of MIDI Toolbox Software Package, by Tuomas Eerola & Petri Toiviainen, Music Department, ptee@cc.jyu.fi, ptoiviai@cc.jyu.fi, Copyright © 2004, University of Jyvaskyla, Finland.
 This program is free software; you can redistribute it and/or modify it under the terms of version 2 of GNU General Public License as published by the FreeSoftware Foundation.
